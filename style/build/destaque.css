@@ -1,0 +1,56 @@
+#destaque {
+    height: 900px;
+    width: 100%;
+    position: absolute;
+}
+
+#destaque Video {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    z-index: -1;
+}
+
+.descricao__destaque {
+    position: absolute;
+    z-index: 2;
+    left: 12%;
+    bottom: 5%;
+    height: 40%;
+    width: 25%;
+    padding: 2%;
+    color: whitesmoke;
+    border-radius: 30px;
+    background-color: rgba(0, 0, 0, 0.418);
+}
+
+
+.descricao__destaque h3 {
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+.descricao__destaque h1 {
+    font-size: 40px;
+    font-weight: normal;
+    margin-bottom: 30px;
+}
+.descricao__destaque span {
+    font-size: 56px;
+    font-weight: normal;
+}
+.descricao__destaque button {
+    height: 50px;
+    width: 250px;
+    font-size: 24px;
+    border-radius: 30px;
+    border: none;
+    color: whitesmoke;
+    background: linear-gradient(90deg, rgb(204, 95, 23) 30%, rgb(153, 44, 1) 70%);
+    cursor: pointer;
+}
+
+.descricao__destaque button:hover {
+    transition: all ease-in-out 2s;
+    transform: scale(1.2);
+    border: solid 1px whitesmoke;
+}

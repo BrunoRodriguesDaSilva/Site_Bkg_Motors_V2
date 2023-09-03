@@ -25,4 +25,3 @@ export const Cabecalho = `
     <button><img src="./public/Imagens/menu.svg" alt=""></button>
 </header>
 `
-//(por cima do resto do site)

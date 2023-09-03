@@ -3,7 +3,6 @@ Descricao do Projeto
 
 <a name="readme-top"></a>
 
-<!-- ABOUT THE PROJECT -->
 ## Sobre o Projeto
 
 Está é uma nova versão de um antigo projeto desenvolvido no inicio de meus estudos.
@@ -14,7 +13,7 @@ Está é uma nova versão de um antigo projeto desenvolvido no inicio de meus es
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Built With
+### Tecnologias usadas
 
 Breve descricao sobre as tecnologias usadas
 
@@ -25,25 +24,20 @@ Breve descricao sobre as tecnologias usadas
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
-## Getting Started
+## Começando
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
 ## Colocar capturas de tela do Projeto
 
-<!-- USAGE EXAMPLES -->
-## Usage
+## Uso
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTACT -->
-## Contact
+## Contato
 
 Bruno Rodrigues da Silva - [@brunorodriguesdev](https://www.instagram.com/brunorodriguesdev/) - Brunochh@outlook.com
 

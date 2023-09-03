@@ -1,0 +1,116 @@
+#banners__historia {
+    height: 100%;
+    width: 100%;
+    background-color: whitesmoke;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 5% 0;
+}
+
+.mais__noticias {
+    height: 70px;
+    width: 250px;
+    margin: 2% 0;
+    border-radius: 50px;
+    font-size: 18px;
+    color: whitesmoke;
+    background: linear-gradient(90deg, rgb(204, 95, 23) 30%, rgb(153, 44, 1) 70%);
+}
+
+.mais__noticias:hover {
+    transition: all ease-in-out 2s;
+    transform: scale(1.2);
+    border: solid 1px whitesmoke;
+}
+
+.container {
+    background-color: #d2d2d2;
+    height: 100%;
+    width: 80%;
+    padding: 4% 0;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.container button {
+    height: 70px;
+    width: 150px;
+    background-color: wheat;
+}
+
+#historia {
+    background-color: whitesmoke;
+    height: 100%;
+    width: 30%;
+    padding: 2%;
+    box-shadow: rgba(0, 0, 0, 0.26) 0px 0px 40px 0px;
+}
+
+#historia h3 {
+    font-size: 42px;
+    padding: 10% 0;
+}
+
+#historia p {
+    font-size: 22px;
+    padding: 10% 0;
+}
+
+#historia button {
+    height: 40px;
+    width: 300px;
+    font-size: 14px;
+    padding: 10% 0;
+    background-color: transparent;  /*Tirar isso aqui*/
+}
+
+.historia_1 {
+    height: 100%;
+    width: 90%;
+}
+.historia_2 {
+    height: 100px;
+    width: 100px;
+    display: none
+}
+.historia_3 {
+    height: 100px;
+    width: 100px;
+    display: none
+}
+.historia_4 {
+    height: 100px;
+    width: 100px;
+    display: none
+}
+
+#imagens {
+    height: 500px;
+    width: 500px;
+}
+
+#imagens img {
+    height: 100%;
+    width: 100%;
+}
+
+.imagem_1 {
+    height: 100%;
+    width: 100%;
+}
+.imagem_2 {
+    height: 100%;
+    width: 100%;
+    display: none;
+}
+.imagem_3 {
+    height: 100%;
+    width: 100%;
+    display: none;
+}
+.imagem_4 {
+    height: 100%;
+    width: 100%;
+    display: none;
+}

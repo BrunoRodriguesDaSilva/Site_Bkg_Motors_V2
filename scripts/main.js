@@ -1,9 +1,11 @@
-import { Cabecalho } from "./header.Js";
+import { Cabecalho } from "./header.js";
 import { Destaque } from "./destaque.js";
+import { BannersHistoria } from "./bannersHistoria";
 
 document.querySelector('#app').innerHTML = `
 ${Cabecalho}
 ${Destaque}
+${BannersHistoria}
 `;
 
 
@@ -21,7 +23,7 @@ ${Destaque}
 
 
 
-
+// inforamcoes sobre algumas historias carros com botao para ir ao lado
 
 
 // ///modelos disponiveis

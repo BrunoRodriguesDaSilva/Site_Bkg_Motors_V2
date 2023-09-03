@@ -7,14 +7,5 @@ export const Destaque = `
       <h1>Conheça a <br> <span>Ferrari 360</span></h1>
       <button>Descubra</button>
   </div>
-<section>
+</section>
 `
-
-
-
-///destaque
-// carousel de videos (por baixo do texto principal)
-// texto principal
-//   titulo pequeno
-//   titulo grande
-//   botao

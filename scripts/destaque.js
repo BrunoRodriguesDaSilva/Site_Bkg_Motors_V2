@@ -5,7 +5,7 @@ export const Destaque = `
   <div class="descricao__destaque">
       <h3>PREMIER GLOBAL</h3>
       <h1>Conheça a <br> <span>Ferrari 360</span></h1>
-      <button>Descubra</button>
+      <a href="#" target="_blank"><button>Descubra</button></a>
   </div>
 </section>
-`
+`;

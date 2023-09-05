@@ -1,0 +1,65 @@
+#modelos__disponiveis {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#modelos__disponiveis h1 {
+    height: 100px;
+    width: 450px;
+    font-size: 32px;
+    font-weight: lighter;
+    padding: 2%;
+    margin: 2%;
+    text-align: center;
+}
+
+.box__modelos {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    padding: 2%;
+    margin: 0 0 5% 0;
+}
+
+.modelo {
+    height: 100%;
+    width: 100%;
+    padding: 3%;
+    margin: 0 1%;
+    background-color: whitesmoke;
+    box-shadow: rgba(0, 0, 0, 0.342) 0 0 20px 0;
+}
+
+.modelo img {
+    height: 100%;
+    width: 100%;
+}
+
+.modelo h2 {
+    font-size: 32px;
+    font-weight: lighter;
+    margin: 5% 3%;
+}
+
+.modelo h3 {
+    margin: 0 3%;
+}
+
+.modelo a button {
+    height: 40px;
+    width: 170px;
+    background: linear-gradient(90deg, rgba(204, 95, 23, 0.863) 30%, rgba(190, 59, 7, 0.918) 70%);
+    border: 1px solid grey;
+    color: whitesmoke;
+    border-radius: 50px;
+    margin: 5% 1%;
+}
+
+.modelo a button:hover {
+    transition: all ease-in-out 2s;
+    transform: scale(1.2);
+    border: solid 1px whitesmoke;
+}

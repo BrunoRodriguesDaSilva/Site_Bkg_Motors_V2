@@ -6,22 +6,22 @@ export const Cabecalho = `
     <nav>
         <ul>
             <li>
-                <button>hatch</button>
+                <button class="hatch">hatch</button>
             </li>
             <li>
-                <button>sedan</button>
+                <button class="sedan">sedan</button>
             </li>
             <li>
-                <button>suv</button>
+                <button class="suv">suv</button>
             </li>
             <li>
-                <button>conversivel</button>
+                <button class="conversivel">conversivel</button>
             </li>
             <li>
-                <button>supercars</button>
+                <button class="supercars">supercars</button>
             </li>
         </ul>
     </nav>
     <button><img src="./public/Imagens/menu.svg" alt=""></button>
 </header>
-`
+`;

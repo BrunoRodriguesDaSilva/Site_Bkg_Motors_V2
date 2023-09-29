@@ -1,0 +1,82 @@
+section.footer {
+    height: 100%;
+    width: 100%;
+    padding: 0 80px;
+    color: whitesmoke;
+    background-color: rgb(27, 27, 27);
+}
+
+div.contato_e_redes_sociais {
+    display: flex;
+    height: 100%;
+    width: 100%;
+    padding: 100px 0;
+}
+
+div.contato {
+    width: 50%;
+}
+
+div.contato h1 {
+    font-size: 28px;
+    font-weight: lighter;
+    padding: 0 0 15px 0;
+}
+
+div.contato p {
+    font-size: 20px;
+    font-weight: lighter;
+    padding: 0 0 50px 0;
+}
+
+div.contato a button {
+    height: 50px;
+    width: 200px;
+    font-size: 16px;
+    border-radius: 8px;
+    color: black;
+    background-color: whitesmoke;
+}
+
+
+div.redes_sociais {
+    width: 50%;
+    padding: 0 50px;
+}
+
+div.redes_sociais h1 {
+    font-size: 28px;
+    font-weight: lighter;
+    padding: 0 0 50px 0;
+}
+
+div.redes_sociais ul {
+    display: flex;
+}
+
+div.redes_sociais li {
+    margin: 0 50px;
+    list-style: none;
+}
+
+div.redes_sociais li img {
+    height: 40px;
+    width: 40px;
+}
+
+div.direitos_do_site {
+    height: 100%;
+    width: 70%;
+    padding: 50px 0 100px 0;
+    margin: auto;
+    text-align: center;
+}
+
+div.direitos_do_site h1 {
+    font-size: 28px;
+    padding: 50px 0;
+}
+
+div.direitos_do_site p {
+    padding: 2px 0;
+}
